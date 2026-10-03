@@ -1,0 +1,9 @@
+.worktrees/
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.coverage
+htmlcov/
+work/
