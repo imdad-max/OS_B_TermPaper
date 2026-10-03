@@ -1,0 +1,13 @@
+algorithm,period,references,hits,page_faults,hit_ratio,pages,frames,seed,shift_index,trace_length
+FIFO,Before Shift,1000,667,333,0.667,10,4,42,1000,2000
+FIFO,After Shift,1000,434,566,0.434,10,4,42,1000,2000
+FIFO,Overall,2000,1101,899,0.5505,10,4,42,1000,2000
+LRU,Before Shift,1000,639,361,0.639,10,4,42,1000,2000
+LRU,After Shift,1000,456,544,0.456,10,4,42,1000,2000
+LRU,Overall,2000,1095,905,0.5475,10,4,42,1000,2000
+Optimal,Before Shift,1000,853,147,0.853,10,4,42,1000,2000
+Optimal,After Shift,1000,667,333,0.667,10,4,42,1000,2000
+Optimal,Overall,2000,1520,480,0.76,10,4,42,1000,2000
+Learned,Before Shift,1000,796,204,0.796,10,4,42,1000,2000
+Learned,After Shift,1000,394,606,0.394,10,4,42,1000,2000
+Learned,Overall,2000,1190,810,0.595,10,4,42,1000,2000
